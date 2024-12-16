@@ -1,0 +1,15 @@
+Wind ckaAw 200 300 1
+Wind KLELr 100 400 1
+Wind SsIZs   0 500 0
+
+Gas sAZf8   0 250 0
+Gas Zv11K   0 350 0
+Gas tjChA 300 450 1
+
+Hydro Gqy6U   0 120 0
+Hydro 5SZ0Z 220 320 1
+
+Storage hZg60 0 80 1
+
+Solar 8mFzL 50 95 1
+Solar Nttha 11 135 1
